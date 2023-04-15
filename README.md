@@ -6,3 +6,5 @@ Ever came to a peculiar problem where ChatGPT is not able to help you? Thats rig
 
 Here is where our solution comes in- with our application you can feed a pdf to the application, slot in your OpenAI API key and get answers to whatever and everything you need from your own data.
 
+Optimised for use on Google Colab!
+
