@@ -5,3 +5,5 @@ pypdf
 tiktoken
 panel
 notebook
+streamlit
+plotly
